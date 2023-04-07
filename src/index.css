@@ -24,6 +24,7 @@ body {
   top: 0;
   width: 100vw;
   background-color: green;
+  color: white;
 }
 .scoreContainer{
   font-size: 20px;
@@ -44,6 +45,7 @@ hr {
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: repeat(3, 1fr);
   gap: 10px;
+  color: white;
 }
 
 .gridItem {
@@ -53,8 +55,10 @@ hr {
   align-items: center;
   width: 300px;
   height: 200px;
-  background-color: rgb(56, 219, 56);
+  /* background-color: rgb(56, 219, 56); */
+    background: linear-gradient(yellow, green);
   border-radius: 20px;
+  box-shadow: 2px 2px 2px white;
 }
 
 .imgContainer>img {
