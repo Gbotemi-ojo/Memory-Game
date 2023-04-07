@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Memory-Game/static/css/main.432b9687.css",
+    "main.js": "/Memory-Game/static/js/main.c43a9e5b.js",
+    "static/media/joe.png": "/Memory-Game/static/media/joe.9c2e59c904ff4974e9d7.png",
+    "static/media/quagmire.png": "/Memory-Game/static/media/quagmire.58de64886a82fe8dc6c6.png",
+    "static/media/adamwest.png": "/Memory-Game/static/media/adamwest.e762e3aa0c3806378295.png",
+    "static/media/stewie.png": "/Memory-Game/static/media/stewie.3c7fbb111a710031bca0.png",
+    "static/media/herbert.png": "/Memory-Game/static/media/herbert.40ec9277d5329a320559.png",
+    "static/media/peter.jpeg": "/Memory-Game/static/media/peter.88cd2d75844f8fc7c1bc.jpeg",
+    "static/media/bonnie.jpeg": "/Memory-Game/static/media/bonnie.fe3bee90352524f79c1f.jpeg",
+    "static/media/cleveland.jpeg": "/Memory-Game/static/media/cleveland.cd9aaec3e328bd53aaa2.jpeg",
+    "static/media/brian.jpeg": "/Memory-Game/static/media/brian.21f1e2337adfdbc53553.jpeg",
+    "static/media/lois.jpeg": "/Memory-Game/static/media/lois.55819a4e170adff83e65.jpeg",
+    "static/media/jillian.jpeg": "/Memory-Game/static/media/jillian.f8123254e2e0e64b14d6.jpeg",
+    "static/media/chris.png": "/Memory-Game/static/media/chris.34f51368e1caef0b1c1d.png",
+    "static/media/tricia.jpeg": "/Memory-Game/static/media/tricia.c4af0c86308285193fd4.jpeg",
+    "static/media/meg.png": "/Memory-Game/static/media/meg.4b863bd644826c066cab.png",
+    "index.html": "/Memory-Game/index.html",
+    "main.432b9687.css.map": "/Memory-Game/static/css/main.432b9687.css.map",
+    "main.c43a9e5b.js.map": "/Memory-Game/static/js/main.c43a9e5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.432b9687.css",
+    "static/js/main.c43a9e5b.js"
+  ]
+}
